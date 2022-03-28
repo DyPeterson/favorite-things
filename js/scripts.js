@@ -21,6 +21,5 @@ $(document).ready(function() {
     // document.getElementById("outputOne").innerHTML = outputText;
     // function myFunction(value) {
     // outputText += "<li>" + value + "</li>";
-
   });
 });
